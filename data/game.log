@@ -1,0 +1,1110 @@
+2026-03-14 17:19:05,802 - INFO - Logging successfully initialized
+2026-03-14 17:19:06,461 - INFO - Pygame successfully initialized
+2026-03-14 17:19:06,825 - INFO - Menu background image loaded: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\jungle_background.jpg
+2026-03-14 17:19:06,924 - INFO - Game background image loaded: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\game_background.png
+2026-03-14 17:19:06,925 - INFO - Background music loaded: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\background_music.mp3
+2026-03-14 17:19:06,947 - INFO - Jump sound loaded: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\jump_sound.wav
+2026-03-14 17:19:06,948 - INFO - Death sound loaded: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\death_sound.wav
+2026-03-14 17:19:06,949 - INFO - Config loaded: music_volume=0.500000, sfx_volume=0.500000, dev_mode=False
+2026-03-14 17:19:06,959 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\player_run_1.png to size (50, 60)
+2026-03-14 17:19:06,960 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\player_run_2.png to size (50, 60)
+2026-03-14 17:19:06,961 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\player_run_3.png to size (50, 60)
+2026-03-14 17:19:06,963 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\player_run_4.png to size (50, 60)
+2026-03-14 17:19:06,964 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\player_jump.png to size (50, 60)
+2026-03-14 17:19:06,965 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\enemy_run_1.png to size (40, 40)
+2026-03-14 17:19:06,965 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\enemy_run_2.png to size (40, 40)
+2026-03-14 17:19:07,009 - INFO - Successfully loaded OptimusPrinceps.ttf
+2026-03-14 17:19:07,481 - INFO - Stats saved: {'best_times': {'1': 4.1799938678741455, '2': None}, 'total_playtime': 1749.71621966362, 'last_start_time': 1773505147.4808545}
+2026-03-14 17:19:07,841 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\ground_platform1.png to size (1280, 50)
+2026-03-14 17:19:07,851 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\platform.png to size (170, 30)
+2026-03-14 17:19:07,868 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\moving_platform.png to size (100, 30)
+2026-03-14 17:19:07,869 - INFO - Loaded and scaled image: C:\Users\nikla\Nextcloud\Projekte\Jungle Explorer\jungle_explorer\assets\goal.png to size (80, 80)
+2026-03-14 17:19:07,870 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:07,900 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:07,933 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:07,959 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:07,988 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,012 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,034 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,057 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,081 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,105 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,130 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,131 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,152 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,153 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,175 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,176 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,197 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,198 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,222 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,222 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,256 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,256 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,285 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,285 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,319 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,320 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,349 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,349 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,372 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,372 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,399 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,399 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,422 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,423 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,449 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,449 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,472 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,472 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,495 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,495 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,517 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,517 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,540 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,540 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,562 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,562 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,585 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,585 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,608 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,608 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,630 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,630 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,652 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,653 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,676 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,676 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,699 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,699 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,722 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,722 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,747 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,747 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,770 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,770 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,792 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,792 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,815 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,815 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,837 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,837 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,859 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,860 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,881 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,881 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,906 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,906 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,930 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,930 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,953 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,954 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,976 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,976 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:08,999 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:08,999 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,022 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,022 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,043 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,045 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,067 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,067 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,088 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,088 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,113 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,113 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,135 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,135 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,157 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,157 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,179 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,180 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,202 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,202 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,224 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,224 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,247 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,247 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,269 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,270 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,291 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,292 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,318 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,318 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,343 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,343 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,377 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,377 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,409 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,409 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,434 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,434 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,465 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,465 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,492 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,493 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,516 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,516 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,541 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,542 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,567 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,568 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,593 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,593 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,626 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,626 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,657 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,657 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,688 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,688 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,718 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,718 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,743 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,743 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,770 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,771 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,799 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,799 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,832 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,832 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,857 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,857 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,890 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,890 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,924 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,924 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,950 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,950 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:09,983 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:09,983 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,020 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,020 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,046 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,046 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,071 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,071 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,104 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,105 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,133 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,133 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,168 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,168 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,196 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,196 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,232 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,232 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,256 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,256 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,283 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,283 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,305 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,305 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,329 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,329 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,363 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,363 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,387 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,387 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,409 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,409 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,432 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,432 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,458 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,458 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,483 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,484 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,506 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,506 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,529 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,529 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,551 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,551 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,573 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,573 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,598 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,598 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,621 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,621 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,647 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,647 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,669 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,669 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,694 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,694 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,720 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,721 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,745 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,745 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,770 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,771 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,794 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,794 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,826 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,826 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,855 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,855 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,880 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,880 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,906 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,906 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,930 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,931 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,954 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,954 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,976 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,976 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:10,999 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:10,999 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,023 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,023 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,045 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,046 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,068 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,068 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,088 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,089 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,111 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,111 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,132 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,133 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,166 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,167 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,198 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,198 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,229 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,229 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,252 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,252 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,273 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,274 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,296 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,296 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,318 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,318 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,340 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,341 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,363 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,363 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,385 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,386 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,408 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,409 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,432 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,432 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,455 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,455 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,478 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,478 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,500 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,500 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,522 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,522 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,545 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,545 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,567 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,567 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,589 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,589 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,611 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,611 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,635 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,636 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,657 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,657 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,679 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,681 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,703 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,703 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,726 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,726 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,749 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,749 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,771 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,771 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,793 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,793 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,815 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,817 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,840 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,840 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,862 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,862 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,885 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,885 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,908 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,908 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,932 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,932 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,955 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,955 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:11,978 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:11,979 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,001 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,001 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,026 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,026 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,049 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,049 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,072 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,072 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,095 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,095 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,119 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,119 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,145 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,145 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,169 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,169 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,192 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,192 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,224 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,224 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,256 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,257 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,291 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,291 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,314 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,314 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,347 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,347 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,380 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,380 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,402 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,402 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,428 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,428 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,454 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,454 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,486 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,486 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,508 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,508 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,532 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,532 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,556 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,556 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,578 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,579 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,610 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,610 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,632 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,633 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,661 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,661 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,695 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,695 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,719 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,719 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,742 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,742 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,766 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,767 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,796 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,796 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,819 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,819 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,847 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,847 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,870 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,870 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,903 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,903 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,928 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,928 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,960 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,960 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:12,982 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:12,982 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,006 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,006 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,006 - INFO - Player jumps: velocity_y=-650
+2026-03-14 17:19:13,038 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,062 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,083 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,112 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,135 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,160 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,183 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,207 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,230 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,254 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,278 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,312 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,336 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,365 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,390 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,413 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,437 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,460 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,482 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,503 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,527 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,548 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,570 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,592 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,613 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,637 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,660 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,682 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,706 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,736 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,762 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,786 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,809 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,832 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,855 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,855 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,878 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,878 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,903 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,903 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,926 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,926 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,950 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,950 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,973 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,973 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:13,996 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:13,996 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:14,032 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,032 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:14,055 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,055 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:14,079 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,079 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:14,101 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,102 - DEBUG - Landed on platform at y=635
+2026-03-14 17:19:14,102 - INFO - Player jumps: velocity_y=-650
+2026-03-14 17:19:14,130 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,153 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,176 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,213 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,247 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,270 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,295 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,319 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,341 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,365 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,390 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,415 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,439 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,463 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,497 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,521 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,544 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,568 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,568 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,601 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,601 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,623 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,624 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,652 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,652 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,675 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,675 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,697 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,697 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,719 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,720 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,743 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,743 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,771 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,771 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,794 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,794 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,818 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,818 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,842 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,842 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:14,842 - INFO - Player jumps: velocity_y=-650
+2026-03-14 17:19:14,865 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,897 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,921 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,945 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,970 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:14,999 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,023 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,048 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,077 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,111 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,146 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,174 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,198 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,223 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,247 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,276 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,300 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,330 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,355 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,389 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,415 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,440 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,463 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,487 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,511 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,534 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,557 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,580 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,603 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,626 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,650 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,674 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,696 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,696 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:15,733 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,733 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:15,771 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,772 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:15,805 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,805 - DEBUG - Landed on platform at y=515
+2026-03-14 17:19:15,805 - INFO - Player jumps: velocity_y=-650
+2026-03-14 17:19:15,835 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,865 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,888 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,912 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,934 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,956 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:15,979 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,002 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,025 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,047 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,069 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,091 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,112 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,135 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,157 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,179 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,202 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,223 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,246 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,269 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,291 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,314 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,337 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,359 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,359 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,381 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,381 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,405 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,405 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,427 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,427 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,450 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,450 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,473 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,473 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,497 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,497 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,521 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,521 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,543 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,543 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,567 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,567 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,589 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,589 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,612 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,612 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,635 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,636 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,657 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,658 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,680 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,680 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,705 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,705 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,728 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,728 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,751 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,751 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,773 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,773 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,798 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,798 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,821 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,821 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,843 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,843 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,866 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,866 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,889 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,889 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,913 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,913 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,936 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,937 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,959 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,959 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:16,981 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:16,982 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,005 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,005 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,030 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,030 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,053 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,053 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,076 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,076 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,076 - INFO - Player jumps: velocity_y=-650
+2026-03-14 17:19:17,110 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,142 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,175 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,205 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,227 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,251 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,278 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,309 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,336 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,367 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,400 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,432 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,463 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,496 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,527 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,552 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,582 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,604 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,630 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,657 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,687 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,713 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,746 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,770 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,793 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,793 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,793 - DEBUG - Player landed on moving platform, relative_x=3.000000
+2026-03-14 17:19:17,793 - DEBUG - Player position synchronized with platform, x=760, y=405
+2026-03-14 17:19:17,816 - DEBUG - Player relative_x updated due to input: 8.750000
+2026-03-14 17:19:17,816 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,816 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,817 - DEBUG - Player position synchronized with platform, x=767, y=405
+2026-03-14 17:19:17,839 - DEBUG - Player relative_x updated due to input: 14.500000
+2026-03-14 17:19:17,839 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,839 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,840 - DEBUG - Player position synchronized with platform, x=775, y=405
+2026-03-14 17:19:17,862 - DEBUG - Player relative_x updated due to input: 20.250000
+2026-03-14 17:19:17,862 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,862 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,862 - DEBUG - Player position synchronized with platform, x=783, y=405
+2026-03-14 17:19:17,884 - DEBUG - Player relative_x updated due to input: 26.250000
+2026-03-14 17:19:17,884 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,884 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,884 - DEBUG - Player position synchronized with platform, x=791, y=405
+2026-03-14 17:19:17,907 - DEBUG - Player relative_x updated due to input: 31.750000
+2026-03-14 17:19:17,907 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,907 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,907 - DEBUG - Player position synchronized with platform, x=798, y=405
+2026-03-14 17:19:17,932 - DEBUG - Player relative_x updated due to input: 38.000000
+2026-03-14 17:19:17,933 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,933 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,933 - DEBUG - Player position synchronized with platform, x=807, y=405
+2026-03-14 17:19:17,956 - DEBUG - Player relative_x updated due to input: 43.750000
+2026-03-14 17:19:17,956 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,956 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,957 - DEBUG - Player position synchronized with platform, x=814, y=405
+2026-03-14 17:19:17,979 - DEBUG - Player relative_x updated due to input: 49.750000
+2026-03-14 17:19:17,979 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:17,980 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:17,980 - DEBUG - Player position synchronized with platform, x=822, y=405
+2026-03-14 17:19:18,001 - DEBUG - Player relative_x updated due to input: 55.250000
+2026-03-14 17:19:18,001 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,001 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,001 - DEBUG - Player position synchronized with platform, x=830, y=405
+2026-03-14 17:19:18,023 - DEBUG - Player relative_x updated due to input: 61.000000
+2026-03-14 17:19:18,023 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,023 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,024 - DEBUG - Player position synchronized with platform, x=838, y=405
+2026-03-14 17:19:18,047 - DEBUG - Player relative_x updated due to input: 66.750000
+2026-03-14 17:19:18,047 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,047 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,047 - DEBUG - Player position synchronized with platform, x=845, y=405
+2026-03-14 17:19:18,079 - DEBUG - Player relative_x updated due to input: 74.750000
+2026-03-14 17:19:18,080 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,080 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,080 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,080 - DEBUG - Player position synchronized with platform, x=856, y=405
+2026-03-14 17:19:18,103 - DEBUG - Player relative_x updated due to input: 80.500000
+2026-03-14 17:19:18,103 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,103 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,103 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,103 - DEBUG - Player position synchronized with platform, x=864, y=405
+2026-03-14 17:19:18,132 - DEBUG - Player relative_x updated due to input: 88.000000
+2026-03-14 17:19:18,132 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,132 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,132 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,132 - DEBUG - Player position synchronized with platform, x=875, y=405
+2026-03-14 17:19:18,170 - DEBUG - Player relative_x updated due to input: 97.500000
+2026-03-14 17:19:18,170 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,170 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,170 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,171 - INFO - Player jumps: velocity_y=-650
+2026-03-14 17:19:18,204 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,239 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,265 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,292 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,315 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,337 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,359 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,381 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,402 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,435 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,457 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,480 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,503 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,525 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,547 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,569 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,592 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,624 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,650 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,679 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,703 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,733 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,768 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,801 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,838 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,868 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,868 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,868 - DEBUG - Player landed on moving platform, relative_x=-4.000000
+2026-03-14 17:19:18,868 - DEBUG - Player position synchronized with platform, x=747, y=405
+2026-03-14 17:19:18,899 - DEBUG - Player relative_x updated due to input: -12.000000
+2026-03-14 17:19:18,899 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,899 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,899 - DEBUG - Player position synchronized with platform, x=736, y=405
+2026-03-14 17:19:18,931 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,931 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,931 - DEBUG - Player position synchronized with platform, x=733, y=405
+2026-03-14 17:19:18,965 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,965 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,965 - DEBUG - Player position synchronized with platform, x=730, y=405
+2026-03-14 17:19:18,990 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:18,990 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:18,990 - DEBUG - Player position synchronized with platform, x=728, y=405
+2026-03-14 17:19:19,017 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,017 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,017 - DEBUG - Player position synchronized with platform, x=726, y=405
+2026-03-14 17:19:19,045 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,045 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,045 - DEBUG - Player position synchronized with platform, x=724, y=405
+2026-03-14 17:19:19,069 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,069 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,069 - DEBUG - Player position synchronized with platform, x=722, y=405
+2026-03-14 17:19:19,093 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,094 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,094 - DEBUG - Player position synchronized with platform, x=720, y=405
+2026-03-14 17:19:19,116 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,116 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,116 - DEBUG - Player position synchronized with platform, x=718, y=405
+2026-03-14 17:19:19,140 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,140 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,140 - DEBUG - Player position synchronized with platform, x=716, y=405
+2026-03-14 17:19:19,162 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,163 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,163 - DEBUG - Player position synchronized with platform, x=714, y=405
+2026-03-14 17:19:19,185 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,185 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,185 - DEBUG - Player position synchronized with platform, x=712, y=405
+2026-03-14 17:19:19,207 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,207 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,207 - DEBUG - Player position synchronized with platform, x=710, y=405
+2026-03-14 17:19:19,229 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,229 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,230 - DEBUG - Player position synchronized with platform, x=708, y=405
+2026-03-14 17:19:19,252 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,252 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,252 - DEBUG - Player position synchronized with platform, x=706, y=405
+2026-03-14 17:19:19,274 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,274 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,274 - DEBUG - Player position synchronized with platform, x=704, y=405
+2026-03-14 17:19:19,296 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,296 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,296 - DEBUG - Player position synchronized with platform, x=702, y=405
+2026-03-14 17:19:19,318 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,318 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,318 - DEBUG - Player position synchronized with platform, x=700, y=405
+2026-03-14 17:19:19,340 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,340 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,340 - DEBUG - Player position synchronized with platform, x=698, y=405
+2026-03-14 17:19:19,362 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,362 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,362 - DEBUG - Player position synchronized with platform, x=696, y=405
+2026-03-14 17:19:19,389 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,389 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,389 - DEBUG - Player position synchronized with platform, x=694, y=405
+2026-03-14 17:19:19,412 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,412 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,412 - DEBUG - Player position synchronized with platform, x=692, y=405
+2026-03-14 17:19:19,447 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,447 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,447 - DEBUG - Player position synchronized with platform, x=689, y=405
+2026-03-14 17:19:19,472 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,472 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,472 - DEBUG - Player position synchronized with platform, x=687, y=405
+2026-03-14 17:19:19,501 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,501 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,501 - DEBUG - Player position synchronized with platform, x=685, y=405
+2026-03-14 17:19:19,527 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,527 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,527 - DEBUG - Player position synchronized with platform, x=683, y=405
+2026-03-14 17:19:19,551 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,551 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,551 - DEBUG - Player position synchronized with platform, x=681, y=405
+2026-03-14 17:19:19,582 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,583 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,583 - DEBUG - Player position synchronized with platform, x=678, y=405
+2026-03-14 17:19:19,617 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,617 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,617 - DEBUG - Player position synchronized with platform, x=675, y=405
+2026-03-14 17:19:19,641 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,641 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,641 - DEBUG - Player position synchronized with platform, x=673, y=405
+2026-03-14 17:19:19,676 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,676 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,676 - DEBUG - Player position synchronized with platform, x=670, y=405
+2026-03-14 17:19:19,708 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,708 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,708 - DEBUG - Player position synchronized with platform, x=667, y=405
+2026-03-14 17:19:19,739 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,739 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,739 - DEBUG - Player position synchronized with platform, x=664, y=405
+2026-03-14 17:19:19,773 - DEBUG - Player relative_x updated due to input: -4.000000
+2026-03-14 17:19:19,773 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,773 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,773 - DEBUG - Player position synchronized with platform, x=669, y=405
+2026-03-14 17:19:19,806 - DEBUG - Player relative_x updated due to input: 4.750000
+2026-03-14 17:19:19,807 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,807 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,807 - DEBUG - Player position synchronized with platform, x=674, y=405
+2026-03-14 17:19:19,838 - DEBUG - Player relative_x updated due to input: 12.750000
+2026-03-14 17:19:19,838 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,838 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,838 - DEBUG - Player position synchronized with platform, x=679, y=405
+2026-03-14 17:19:19,861 - DEBUG - Player relative_x updated due to input: 18.500000
+2026-03-14 17:19:19,861 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,861 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,861 - DEBUG - Player position synchronized with platform, x=683, y=405
+2026-03-14 17:19:19,888 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,889 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,889 - DEBUG - Player position synchronized with platform, x=681, y=405
+2026-03-14 17:19:19,913 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,915 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,915 - DEBUG - Player position synchronized with platform, x=679, y=405
+2026-03-14 17:19:19,936 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,936 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,936 - DEBUG - Player position synchronized with platform, x=677, y=405
+2026-03-14 17:19:19,958 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,958 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,958 - DEBUG - Player position synchronized with platform, x=675, y=405
+2026-03-14 17:19:19,980 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:19,981 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:19,981 - DEBUG - Player position synchronized with platform, x=673, y=405
+2026-03-14 17:19:20,003 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,003 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,003 - DEBUG - Player position synchronized with platform, x=671, y=405
+2026-03-14 17:19:20,026 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,026 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,026 - DEBUG - Player position synchronized with platform, x=669, y=405
+2026-03-14 17:19:20,048 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,048 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,049 - DEBUG - Player position synchronized with platform, x=667, y=405
+2026-03-14 17:19:20,070 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,070 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,070 - DEBUG - Player position synchronized with platform, x=665, y=405
+2026-03-14 17:19:20,092 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,093 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,093 - DEBUG - Player position synchronized with platform, x=663, y=405
+2026-03-14 17:19:20,114 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,114 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,114 - DEBUG - Player position synchronized with platform, x=661, y=405
+2026-03-14 17:19:20,137 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,137 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,137 - DEBUG - Player position synchronized with platform, x=659, y=405
+2026-03-14 17:19:20,159 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,159 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,159 - DEBUG - Player position synchronized with platform, x=657, y=405
+2026-03-14 17:19:20,182 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,182 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,182 - DEBUG - Player position synchronized with platform, x=655, y=405
+2026-03-14 17:19:20,203 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,204 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,204 - DEBUG - Player position synchronized with platform, x=653, y=405
+2026-03-14 17:19:20,234 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,235 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,235 - DEBUG - Player position synchronized with platform, x=651, y=405
+2026-03-14 17:19:20,257 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,257 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,257 - DEBUG - Player position synchronized with platform, x=649, y=405
+2026-03-14 17:19:20,289 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,289 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,289 - DEBUG - Player position synchronized with platform, x=646, y=405
+2026-03-14 17:19:20,315 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,315 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,315 - DEBUG - Player position synchronized with platform, x=644, y=405
+2026-03-14 17:19:20,346 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,346 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,346 - DEBUG - Player position synchronized with platform, x=641, y=405
+2026-03-14 17:19:20,369 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,370 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,370 - DEBUG - Player position synchronized with platform, x=639, y=405
+2026-03-14 17:19:20,396 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,397 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,397 - DEBUG - Player position synchronized with platform, x=638, y=405
+2026-03-14 17:19:20,420 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,420 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,421 - DEBUG - Player position synchronized with platform, x=640, y=405
+2026-03-14 17:19:20,448 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,448 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,449 - DEBUG - Player position synchronized with platform, x=642, y=405
+2026-03-14 17:19:20,481 - DEBUG - Player relative_x updated due to input: 26.750000
+2026-03-14 17:19:20,482 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,482 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,482 - DEBUG - Player position synchronized with platform, x=653, y=405
+2026-03-14 17:19:20,511 - DEBUG - Player relative_x updated due to input: 34.250000
+2026-03-14 17:19:20,512 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,512 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,512 - DEBUG - Player position synchronized with platform, x=664, y=405
+2026-03-14 17:19:20,547 - DEBUG - Player relative_x updated due to input: 43.250000
+2026-03-14 17:19:20,548 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,548 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,548 - DEBUG - Player position synchronized with platform, x=676, y=405
+2026-03-14 17:19:20,578 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,579 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,579 - DEBUG - Player position synchronized with platform, x=679, y=405
+2026-03-14 17:19:20,602 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,602 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,603 - DEBUG - Player position synchronized with platform, x=681, y=405
+2026-03-14 17:19:20,628 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,629 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,629 - DEBUG - Player position synchronized with platform, x=683, y=405
+2026-03-14 17:19:20,659 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,659 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,659 - DEBUG - Player position synchronized with platform, x=686, y=405
+2026-03-14 17:19:20,686 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,686 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,686 - DEBUG - Player position synchronized with platform, x=688, y=405
+2026-03-14 17:19:20,711 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,711 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,711 - DEBUG - Player position synchronized with platform, x=690, y=405
+2026-03-14 17:19:20,738 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,738 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,738 - DEBUG - Player position synchronized with platform, x=692, y=405
+2026-03-14 17:19:20,769 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,769 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,769 - DEBUG - Player position synchronized with platform, x=695, y=405
+2026-03-14 17:19:20,805 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,805 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,805 - DEBUG - Player position synchronized with platform, x=698, y=405
+2026-03-14 17:19:20,830 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,830 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,830 - DEBUG - Player position synchronized with platform, x=700, y=405
+2026-03-14 17:19:20,863 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,863 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,865 - DEBUG - Player position synchronized with platform, x=703, y=405
+2026-03-14 17:19:20,891 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,891 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,891 - DEBUG - Player position synchronized with platform, x=705, y=405
+2026-03-14 17:19:20,925 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,925 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,925 - DEBUG - Player position synchronized with platform, x=708, y=405
+2026-03-14 17:19:20,952 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,952 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,952 - DEBUG - Player position synchronized with platform, x=710, y=405
+2026-03-14 17:19:20,989 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:20,989 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:20,989 - DEBUG - Player position synchronized with platform, x=713, y=405
+2026-03-14 17:19:21,020 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,020 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,020 - DEBUG - Player position synchronized with platform, x=716, y=405
+2026-03-14 17:19:21,048 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,048 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,048 - DEBUG - Player position synchronized with platform, x=718, y=405
+2026-03-14 17:19:21,074 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,074 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,074 - DEBUG - Player position synchronized with platform, x=720, y=405
+2026-03-14 17:19:21,109 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,110 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,110 - DEBUG - Player position synchronized with platform, x=723, y=405
+2026-03-14 17:19:21,137 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,138 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,138 - DEBUG - Player position synchronized with platform, x=725, y=405
+2026-03-14 17:19:21,163 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,163 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,163 - DEBUG - Player position synchronized with platform, x=727, y=405
+2026-03-14 17:19:21,197 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,198 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,198 - DEBUG - Player position synchronized with platform, x=730, y=405
+2026-03-14 17:19:21,231 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,232 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,232 - DEBUG - Player position synchronized with platform, x=733, y=405
+2026-03-14 17:19:21,256 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,256 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,256 - DEBUG - Player position synchronized with platform, x=735, y=405
+2026-03-14 17:19:21,281 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,281 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,281 - DEBUG - Player position synchronized with platform, x=737, y=405
+2026-03-14 17:19:21,307 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,308 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,308 - DEBUG - Player position synchronized with platform, x=739, y=405
+2026-03-14 17:19:21,338 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,338 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,338 - DEBUG - Player position synchronized with platform, x=742, y=405
+2026-03-14 17:19:21,363 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,363 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,363 - DEBUG - Player position synchronized with platform, x=744, y=405
+2026-03-14 17:19:21,397 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,397 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,397 - DEBUG - Player position synchronized with platform, x=747, y=405
+2026-03-14 17:19:21,422 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,422 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,422 - DEBUG - Player position synchronized with platform, x=749, y=405
+2026-03-14 17:19:21,453 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,453 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,453 - DEBUG - Player position synchronized with platform, x=752, y=405
+2026-03-14 17:19:21,477 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,477 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,477 - DEBUG - Player position synchronized with platform, x=754, y=405
+2026-03-14 17:19:21,500 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,500 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,500 - DEBUG - Player position synchronized with platform, x=756, y=405
+2026-03-14 17:19:21,522 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,522 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,522 - DEBUG - Player position synchronized with platform, x=758, y=405
+2026-03-14 17:19:21,544 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,544 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,544 - DEBUG - Player position synchronized with platform, x=760, y=405
+2026-03-14 17:19:21,567 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,567 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,567 - DEBUG - Player position synchronized with platform, x=762, y=405
+2026-03-14 17:19:21,589 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,589 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,589 - DEBUG - Player position synchronized with platform, x=764, y=405
+2026-03-14 17:19:21,612 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,613 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,613 - DEBUG - Player position synchronized with platform, x=766, y=405
+2026-03-14 17:19:21,636 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,636 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,636 - DEBUG - Player position synchronized with platform, x=768, y=405
+2026-03-14 17:19:21,659 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,659 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,659 - DEBUG - Player position synchronized with platform, x=770, y=405
+2026-03-14 17:19:21,682 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,682 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,682 - DEBUG - Player position synchronized with platform, x=772, y=405
+2026-03-14 17:19:21,706 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,706 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,706 - DEBUG - Player position synchronized with platform, x=774, y=405
+2026-03-14 17:19:21,729 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,729 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,729 - DEBUG - Player position synchronized with platform, x=776, y=405
+2026-03-14 17:19:21,752 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,752 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,752 - DEBUG - Player position synchronized with platform, x=778, y=405
+2026-03-14 17:19:21,779 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,780 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,780 - DEBUG - Player position synchronized with platform, x=780, y=405
+2026-03-14 17:19:21,807 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,807 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,807 - DEBUG - Player position synchronized with platform, x=782, y=405
+2026-03-14 17:19:21,830 - DEBUG - Checking collisions, on_ground initially: False
+2026-03-14 17:19:21,830 - DEBUG - Landed on platform at y=405
+2026-03-14 17:19:21,830 - DEBUG - Player position synchronized with platform, x=784, y=405
